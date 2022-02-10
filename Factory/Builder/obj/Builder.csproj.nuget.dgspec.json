@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\AbstractFactory.csproj",
-        "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

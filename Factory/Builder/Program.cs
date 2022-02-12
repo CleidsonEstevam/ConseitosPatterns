@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Builder.Buildes;
+using Builder.Diretores;
+using Builder.Produtos;
+using System;
 
 namespace Builder
 {
@@ -6,7 +9,16 @@ namespace Builder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            VeiculoBuilder builder = new VeiculoBuilder();
+            Diretor diretor = new Diretor(builder);
+
+            diretor.ConstruirCarroSedan();
+
+            Veiculo sedan = builder.GetVeiculo();
+
+            Console.WriteLine(sedan);
+
+            Console.Read();
         }
     }
 }

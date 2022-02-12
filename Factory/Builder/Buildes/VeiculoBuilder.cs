@@ -9,7 +9,7 @@ namespace Builder.Buildes
     class VeiculoBuilder : IBuilder
     {
         private Veiculo veiculo = new Veiculo();
-        public void GetCambio(Cambio cambio)
+        public void Cambio(Cambio cambio)
         {
             veiculo.Cambio = cambio;
         }

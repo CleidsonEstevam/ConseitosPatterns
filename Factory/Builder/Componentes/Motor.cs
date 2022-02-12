@@ -8,5 +8,11 @@ namespace Builder.Componentes
     {
         private int ligar;
         public int Ligar { get; set; }
+        public Motor(int ligar)
+        {
+            this.Ligar = ligar;
+        }
     }
+   
+   
 }

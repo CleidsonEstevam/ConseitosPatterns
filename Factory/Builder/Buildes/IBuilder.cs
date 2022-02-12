@@ -1,8 +1,6 @@
 ﻿using Builder.Componentes;
 using Builder.Produtos;
-using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace Builder.Buildes
 {
@@ -12,7 +10,7 @@ namespace Builder.Buildes
 
         Veiculo GetVeiculo();
 
-        void GetCambio(Cambio cambio);
+        void Cambio(Cambio cambio);
 
         void Motor(Motor motor);
 

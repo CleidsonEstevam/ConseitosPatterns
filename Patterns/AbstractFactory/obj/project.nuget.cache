@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dO0Scu/7ctbXrkdpOJ6LC3YZbjvEhKd9rMHG9L1vt4lb8QG/DxCdNthd0/sWUz+iU/OQp7KVBfaxIVG4InoMrA==",
+  "dgSpecHash": "rduOwkZsTecVgNoQUjdS49kYZmCJUCldBfb73TKVeMjUQNgc8UPGc03Jf8bvXYZiaeJloB2giQmibZCQ/Tlt6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

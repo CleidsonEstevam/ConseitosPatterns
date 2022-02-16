@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Factory\\Factory.csproj": {}
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Factory\\Factory.csproj": {
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Factory\\Factory.csproj",
+        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Factory\\Factory.csproj",
+        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Factory\\obj\\",
+        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

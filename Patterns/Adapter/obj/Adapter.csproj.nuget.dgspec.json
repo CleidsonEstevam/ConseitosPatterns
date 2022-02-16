@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\Adapter.csproj",
+        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\obj\\",
+        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

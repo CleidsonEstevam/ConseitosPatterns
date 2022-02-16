@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jl+81NGAIDPnT2qhb4rb6G53ZowWDCnkol/m90RClELb7hqIX0lifOe5JFSNwlxq2B6JUR9zx2qUCnqnls+gCw==",
+  "dgSpecHash": "WAy/RQMN0WkAlsidjisaGnBuYl42xpzzR8XRvoHmsKehRYAEEoj0/0hB8RmNBKD0w9pyPKE2/tQq/VmYMbWt7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Bridge\\Bridge.csproj",
+  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

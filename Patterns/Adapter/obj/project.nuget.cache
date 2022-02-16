@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdVhPFflx2bUoCqQUP6yj2gGLd+B62+1VZqPWwAnP19B8NC1ldO5UsHnGASn6TOQ1QvoXLdrRjFAvWOVtRFJoA==",
+  "dgSpecHash": "/5ItYNOEw7cqdaVhHoeCQdYbAvDPP/meaoWpHjOmtCVK85L/3OEBF/9Pk1Kv7rRdYL3PAFsnHYWU48p83L9b1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

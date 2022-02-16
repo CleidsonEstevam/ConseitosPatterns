@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/02/0JWX13G3QffK5ASa65IispdIMdIgLCQVGWdyvaQut91/wo0oARSgOoutvUc7AbuU4mEzuI8D9Fz+5Qeig==",
+  "dgSpecHash": "o/lLv24v0LEGA33+KV1V1oyp572RB3HptRaiGXJmMpIfVz7gaMBCr/V4JSl5oj78sccTDOgURWGNkqWajqBxeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

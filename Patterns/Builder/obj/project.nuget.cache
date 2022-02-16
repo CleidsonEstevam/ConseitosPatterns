@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BOMip+SinXx+Y2yHg6Yl9+bKYau2D/sUCH/JiUP0cAf05n0Zy7K+2ZsNe8oxxxS19oAUAG69pcXe6Mg9bDwfQ==",
+  "dgSpecHash": "QY7m6ZCSqv8iRwIWnD56Il+TiL0Bcf1FZ3Dr+En/nOkG0eRaEBhuyojkL/VTuLcbZFgZh+fK6bOEXspg0qdHOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\Builder\\Builder.csproj",
+  "projectFilePath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

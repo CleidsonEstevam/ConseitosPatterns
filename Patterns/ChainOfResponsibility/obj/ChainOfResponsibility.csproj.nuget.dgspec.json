@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
+    "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectUniqueName": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "projectName": "ChainOfResponsibility",
-        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Factory\\ChainOfResponsibility\\obj\\",
+        "outputPath": "C:\\Users\\cleid\\Desktop\\Patterns\\Patterns\\ChainOfResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
